@@ -1,2 +1,2 @@
-grappa~=0.1.4
+grappa>=1.0
 jsonschema~=2.5.1
